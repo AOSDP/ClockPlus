@@ -66,7 +66,7 @@ public final class TimePickerDialogController extends DialogFragmentController<B
             final String themeLight = mContext.getString(R.string.theme_light);
             final String themeDark = mContext.getString(R.string.theme_dark);
             final String themeBlack = mContext.getString(R.string.theme_black);
-            String prefTheme = prefs.getString(mContext.getString(R.string.key_theme), themeLight);
+            String prefTheme = prefs.getString(mContext.getString(R.string.key_theme), themeBlack);
             
             final int dialogColorRes;
             if (prefTheme.equals(themeLight)) {
