@@ -10,9 +10,6 @@ intuitively designed for ease of use.
 - **List of timers:** See all of your timers in one scrollable list, and control each one individually.
 - **Themes:** Choose between light, dark, and black themes.
 
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
-      alt="Get it on Google Play"
-      height="80">](https://play.google.com/store/apps/details?id=com.philliphsu.clock2)
 [<img src="https://f-droid.org/badge/get-it-on.png"
       alt="Get it on F-Droid"
       height="80">](https://f-droid.org/app/com.philliphsu.clock2)
